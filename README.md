@@ -3,4 +3,4 @@ Modelo de clasificación que para cada estudiante prediga qué desempeño va a t
 
 Juan David Villota Cordoba C.c: 1088728874  Ingeniería de Sistemas
 Sammir Alejandro Bolaños Luna C.c: Ingeniería de Sistemas
-Katherine Rodríguez Mejía C.c: Ingeniería de Sistemas
+Katherine Rodríguez Mejía C.c: 1001361246 Ingeniería de Sistemas
