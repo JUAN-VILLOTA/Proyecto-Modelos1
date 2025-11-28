@@ -8,8 +8,8 @@
 
 ## Video de Presentación - Entrega 2
 
-🎥 **[Ver video en YouTube](https://youtu.be/3LP7y7h5cfE)**
-
+🎥 **[Ver video en YouTube 2da entrega](https://youtu.be/3LP7y7h5cfE)**
+🎥 **[Ver video en YouTube entrega final](https://youtu.be/KFsZXy8wFc4)**
 
 ### Usuario de Kaggle
 
