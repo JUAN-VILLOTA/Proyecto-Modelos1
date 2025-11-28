@@ -3,7 +3,9 @@
 
 
 | Juan David Villota Córdoba | 1088728874 | Ingeniería de Sistemas |
+
 | Sammir Alejandro Bolaños Luna | 1080041258 | Ingeniería de Sistemas |
+
 | Katherine Rodríguez Mejía | 1001361246 | Ingeniería de Sistemas |
 
 ## Video de Presentación - Entrega 2
